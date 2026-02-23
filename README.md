@@ -80,7 +80,7 @@ Data Science Program – SF Education (Russia)
 ### 🧩 Background
 
 **PJSC Ilyushin Aviation Complex, Moscow, Russia**  
-**Design Engineer, Aircraft Control Systems Department**
+**Design Engineer, Aircraft Control Systems Department**  
 Sep 2024 – Jun 2025  
 
 - Developed mathematical models and functional block diagrams of the aircraft automatic flight control system (AFCS) in MATLAB / Simulink
