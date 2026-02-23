@@ -72,8 +72,8 @@ Sep 2022 – Jul 2023
 Professional training program in DevOps engineering (288 hours)	 
 Qualification: Specialist in software architecture and lifecycle management  
 
-**Independent coursework with practical implementation:**
-Data Science Program – SF Education (Russia)
+**Independent coursework with practical implementation:**  
+Data Science Program – SF Education (Russia), 2025
 
 ---
 
