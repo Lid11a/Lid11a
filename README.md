@@ -9,19 +9,19 @@ Currently open to machine learning and data science roles.
 
 ### 🧠 Core skills
 
-**Programming and data**  
+**Programming & Data**  
 Python, SQL, pandas, NumPy, SciPy, Git  
 
-**Machine learning**  
+**Machine Learning**  
 scikit-learn, LightGBM, XGBoost, CatBoost  
 
-**ML engineering**  
+**ML Engineering**  
 MLflow, FastAPI, Docker, CI, logging  
 
-**Validation and data quality**  
+**Validation & Monitoring**  
 pytest, offline data drift detection (PSI)  
 
-**Visualization and EDA**  
+**Visualization & EDA**  
 Matplotlib, Seaborn, Plotly  
 
 ---
