@@ -15,6 +15,9 @@ Python, SQL, pandas, NumPy, SciPy, Git
 **Machine Learning**  
 scikit-learn, LightGBM, XGBoost, CatBoost  
 
+**Experimentation & Causal ML**  
+A/B testing, hypothesis testing, CUPED, uplift modeling, Qini / AUUC evaluation
+
 **ML Engineering**  
 MLflow, FastAPI, Docker, CI, logging  
 
@@ -41,6 +44,21 @@ Binary classification project demonstrating a full ML workflow from research to 
 
 👉 Repository:  
 https://github.com/lid11a/loan-payback-predictor
+
+---
+
+#### 🔹 A/B testing and uplift modeling — experimentation and causal analysis  
+Notebook-based project focused on estimating campaign impact and exploring whether treatment allocation can be improved through uplift modeling.
+
+**Highlights:**
+- Designed and analyzed a binary A/B experiment for treatment vs control with balance checks, effect estimation, confidence intervals, and hypothesis testing
+- Assessed experiment sensitivity using minimum detectable effect and sample size diagnostics
+- Applied CUPED to a noisy post-treatment spend metric and evaluated its practical impact on variance reduction
+- Compared T-, S-, and X-learner uplift models using Qini and related uplift ranking diagnostics
+- Framed the project as the analytical foundation for a future structured engineering implementation
+
+👉 Repository:  
+https://github.com/lid11a/ab_testing_and_uplift_modeling
 
 ---
 
